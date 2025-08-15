@@ -2,11 +2,7 @@
 
 ## Executive Summary:
 
-Using SQL, Python, and Power BI, I pulled order status data from the database and created a dashboard to track orders through the funnel. After identifying that the largest revenue opportunities are to increase user interaction rate and completed login attempts, I recommend that the product team implements a few adjustments that will lead to higher conversion:
-
-1. Copy changes within the workflow
-2. Reminder emails/texts
-3. Better client relationships
+Using SQL, Python, and Power BI, I pulled order status data from the database and created a dashboard to track orders through the funnel. After identifying that the largest revenue opportunities are to increase user interaction rate and completed login attempts.
 
 
 ### Business Problem: 
@@ -49,12 +45,5 @@ Because the biggest revenue impacts will likely come from increasing the user in
 3. Add copy at the beginning of the workflow stating that the process only takes 5 min, and feature a progress bar throughout.
 4. Add copy at the bank login page to encourage users to look up their credentials to make sure they're correct.
 
-I believe these adjustments will best tackle the largest workflow fallout points, increase conversion & revenue, and save the analytics team hours per week from a decrease in ad hoc requests.
-
-### Next Steps: 
-
-1. AB Test copy within the workflow
-2. Train clients and users
-3. Measure email and text open & click rates
 
 
